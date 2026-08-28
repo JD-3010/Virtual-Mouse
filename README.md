@@ -105,7 +105,9 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 
 **Jeremy David Christopher**
+
 Aspiring Data Analyst
+
 Skills: SQL | Excel | Power BI | Data Analytics
 
 🔗 LinkedIn: https://www.linkedin.com/in/jeremy-david-643870201/
