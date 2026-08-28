@@ -109,4 +109,5 @@ Aspiring Data Analyst
 Skills: SQL | Excel | Power BI | Data Analytics  
 
 Let's stay in touch! 
+
 🔗 LinkedIn: https://www.linkedin.com/in/jeremy-david-643870201/
